@@ -1,0 +1,12 @@
+django
+django-debug-toolbar
+django-user-agents
+fastapi
+pydantic
+pydantic-core
+pydantic-settings
+pyjwt
+python-dotenv
+python-multipart
+user-agents
+uvicorn
